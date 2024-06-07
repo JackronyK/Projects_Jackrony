@@ -28,9 +28,7 @@ if 'start_date' not in st.session_state:
 if 'end_date' not in st.session_state:
     st.session_state.end_date = datetime.now().date()
 
-# Ensure the end date is after the start date; if not, reset to today's date
-if st.session_state.start_date > st.session_state.end_date:
-    st.session_state.end_date = st.session_state.start_date
+
 
 st.session_state.start_date = st.sidebar.date_input('Start date', st.session_state.start_date)
 st.session_state.end_date = st.sidebar.date_input('End date', st.session_state.end_date, min_value=st.session_state.start_date)
