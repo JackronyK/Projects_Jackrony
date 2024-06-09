@@ -1,4 +1,3 @@
-Sure, here's a detailed README file for your GitHub repository:
 
 ---
 
@@ -144,4 +143,3 @@ Special thanks to everyone who has supported and guided me through this journey.
 
 ---
 
-Feel free to customize the README further to better fit your project’s details and needs. Happy coding!
