@@ -105,7 +105,7 @@ The models were evaluated using the following metrics:
 
 Here’s a comparison of the performance of the three models:
 
-![Model Performance Graph](link-to-graph)
+![Model Performance Graph](https://github.com/JackronyK/Projects_Jackrony/tree/main/Company%20Bankruptcy%20Classification%20Project/Output)
 
 ### Confusion Matrix for Gradient Boosting Model
 ```plaintext
